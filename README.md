@@ -7,4 +7,5 @@ According to the danish certification scheme dk-DGNB version 2020, following poi
 This script is used to calculate the spatial glare autonomy (sGA) for each glare threshold and visualize the glare category achieved at each radial sensor grid view.
 
 The results will look as follows: 
+
 ![image](https://github.com/labrossemp/Annual-Glare/assets/106970183/da61695b-7df1-47ce-a8b4-553c3dc68f82)
